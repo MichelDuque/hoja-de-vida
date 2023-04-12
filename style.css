@@ -1,0 +1,201 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+    background-color:darkgrey;
+    width: 100%;
+    height: 1100px;
+}
+
+.nombre {
+    color: brown;
+    font-size:30px;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.parte1 {
+    color:white;
+    font-size:30px;
+    padding: 20px;
+    background-color:brown;
+    width:200px;
+    height: 900px;
+    text-align: center;
+  
+}
+
+.foto1 {
+    width: 200px;
+    height: 250px;
+ 
+}
+
+
+.info {
+    color:white;
+    font-size:20px;
+    margin: 20px;
+    
+}
+
+.class1 {
+    background-color:rgb(168, 11, 11);
+    color:rgb(25, 10, 10);
+    height: 50%;
+    
+}
+
+.class2 {
+    background-color:white;
+    height: 60%;
+    padding: 2%;
+}
+
+.barra1{
+    background-color:white;
+    color: black;
+}
+
+.bloque {
+
+
+    display: grid;
+    grid-template-columns: 100px 100px;
+}
+
+.contacto {
+    color: black;
+    
+}
+
+.iconos {
+    color: rgb(7, 6, 6);
+    margin: 30px;
+    background-color: white;
+    width: 25px;
+    height: 15px;
+    font-size: 15px;
+    padding: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.parte2 {
+    padding: 20px;
+    background-color:white; ************;
+    color: rgb(235, 18, 18);
+    width: 40%;
+    height: 900px;
+    text-align:center;
+    font-size:10px;
+}
+    
+.titulo {
+    color:brown;
+    text-align: left;
+    width: 200px;;
+    border-width:0ch;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+   
+}
+
+.titulo1 {
+    color: rgb(246, 246, 249);
+    background-color: brown;
+    width: 290px;
+    border-width: 0ch;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.parrafo{
+    color: rgb(0, 0, 10);
+    text-align: left;
+    text-align: justify;
+    font-size: 15px;
+}
+
+
+
+
+.item {
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-template-rows: min-content;
+    font-size: 20px;
+}
+
+.items {
+    margin: 5px;
+    color: black;
+    font-size: 15px;
+    text-align:left;
+}
+
+.barra1 {
+    
+    background-color: rgb(150, 150, 160);
+    color:rgb(39, 37, 37);
+    width: 200px;
+}
+.barra2 {
+    
+ 
+    background-color: rgb(8, 7, 7);
+    color: brown;
+    width: 90px;
+    height: 10px;
+
+}
+
+
+   
+
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    justify-content: left;
+    
+}
+
+.box{
+    color: rgb(249, 249, 252);
+    border:10px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+
+.inf {
+    color:brown;
+    border:1px brown;
+    background-color:white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: grid;
+    
+    
+
+}
+
+.hobbie {
+    color: black;
+    margin: 10px;
+    border: 1px solid brown ; 
+   
+}
+
+ 
